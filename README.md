@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) 
 ![](https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
-
-
-### ☎️ Collaboration Tools:
+#### Collaboration Tools:
 ![](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white) 
 ![](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white) 
 ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
